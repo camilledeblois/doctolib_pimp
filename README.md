@@ -1,24 +1,25 @@
-# README
+# The Hacking Project - Semaine 4 - Jeudi #
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Projet : Doctolib ##
 
-Things you may want to cover:
+Correspond au projet Doctolib mais avec les modifications suivantes :
+    Ajout d'un modèle city : un docteur, un patient, et un rendez-vous appartiennent tous à une city. Une city peut avoir plusieurs docteurs, patients, et rendez-vous
+    Ajout d'un modèle specialty à part entière : tu vas donc créer un model specialty. Un docteur aurait plusieurs specialty, et une specialty pourrait concerner plusieurs doctor
 
-* Ruby version
+## Modèles : ##
 
-* System dependencies
+*  Doctor
+*  Patient
+*  Appoitment
+*  City
+*  Specialty
 
-* Configuration
+## Auteurs ##
 
-* Database creation
+    Team Caen
+    Camille Deblois, Rauana Roupsard
 
-* Database initialization
+## En savoir plus ##
 
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+    Project for The hacking Project
+    https://www.thehackingproject.org/
