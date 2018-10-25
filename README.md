@@ -1,6 +1,6 @@
 # The Hacking Project - Semaine 4 - Jeudi #
 
-## Projet : Doctolib ##
+## Projet : Doctolib-pimp ##
 
 Correspond au projet Doctolib mais avec les modifications suivantes :
     Ajout d'un modèle city : un docteur, un patient, et un rendez-vous appartiennent tous à une city. Une city peut avoir plusieurs docteurs, patients, et rendez-vous
